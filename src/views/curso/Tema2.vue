@@ -727,7 +727,7 @@
             .h4 Restablecimiento de derechos en niñas, niños y adolescentes
           p.mb-4 La siguiente actividad tiene como propósito fortalecer algunos de los conceptos y procesos relacionados con el restablecimiento de derechos en niñas, niños y adolescentes y la ruta para su realización. 
 
-          a.boton.boton--b(:href="obtenerLink('downloads/actividades/A1/index.html')" target="_blank" type="application/pdf")
+          a.boton.boton--b(:href="obtenerLink('downloads/actividad/A1/index.html')" target="_blank" type="application/pdf")
             span Iniciar
             i.fas.fa-file-download  
     
