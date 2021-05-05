@@ -10,7 +10,7 @@
 
     .crd_A.crd_A--celeste.mb-5
       .row.align-items-center
-        .col-12.col-lg-auto
+        .col-12.col-xl-auto
           figure
             img(src="@/assets/tema_2/img_2_01.png", alt="El restablecimiento y la garantía de derechos de niñas, niños y adolescentes", style="width:100%;")
             figcaption Nota. Imagen tomada de banco de imágenes de Prosperidad Social (2020).
@@ -102,10 +102,16 @@
     .titulo-segundo.mb-5
       #t_2_2.h4 2.2  Autoridades administrativas competentes para el restablecimiento de derechos
 
-    figure.mb-5
+    figure.mb-3
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/4qK52CqhMiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Autoridades administrativas competentes para el restablecimiento de derechos    
+
+    .subref.mb-5
+      p #[sup 3]  De acuerdo con el Concepto 151 de 2016, de la oficina asesora jurídica del ICBF, “Las autoridades indígenas por mandato del artículo 246 de la Constitución Política, forman parte de la rama judicial como una jurisdicción especial, que tiene plenas facultades para administrar justicia dentro y para los miembros de la comunidad indígena y sus decisiones son auténticas providencias judiciales con todas las características de obligatoriedad y ejecutoriedad, sin que tengan que ser avaladas u homologadas por otra autoridad judicial”. 
+      br
+      p #[sup 4] Juez de Familia, Juez promiscuo de familia, o cuando en dichos municipios no haya, el juez civil municipal en única instancia, de conformidad con lo establecido en el numeral 6, del artículo 17 de la Ley 1564 de 2012.
+
 
     p.mb-5 Las autoridades competentes para el restablecimiento de derechos se indican en la siguiente tabla:
 
@@ -142,19 +148,18 @@
         figure
           img(src="@/assets/tema_2/img_2_2_01.svg", alt="alt", style="width:450px; display:block; margin:0 auto;")
 
-    p.mb-5 #[strong Competencia de las autoridades administrativas] 
-      br
-      br
-      | Para conocer la competencia de las autoridades administrativas competentes para el restablecimiento de derechos de los niños, niñas y adolescentes que se encuentren en situación de inobservancia, amenaza o vulneración de derechos, esta se define por el factor territorial, el cual, según el artículo 97 de la Ley 1098 de 2006, será la autoridad del lugar donde se encuentre el niño, niña o adolescente. 
-      br
-      br
-      | Así mismo, cuando el niño, niña o adolescente se encuentre fuera del país, la autoridad administrativa competente será la del lugar en donde haya tenido su última residencia en el territorio nacional . En el evento en el que el niño, niña o adolescente nunca haya residido en el territorio colombiano, tendrá competencia cualquier autoridad administrativa del país.
-      br
-      br
-      | Frente a la competencia de las autoridades administrativas, se debe tener en cuenta que: “En toda actuación administrativa, siempre debe prevalecer el interés superior del niño, niña o adolescente atendiendo a la Constitución Política, y los Convenios y Tratados internacionales que hoy hacen parte de nuestro sistema jurídico, evitando la dilación injustificada del proceso” (ICBF, 2013), a fin de garantizar la oportunidad en el restablecimiento de los derechos de los niños, niñas y adolescentes. 
-      br
-      br
-      | En este mismo sentido, en la siguiente figura se relacionan otros tipos de competencia que tienen las autoridades administrativas para conocer del restablecimiento de derechos de los niños, niñas y adolescentes:
+    p #[strong Competencia de las autoridades administrativas] 
+    br
+    p Para conocer la competencia de las autoridades administrativas competentes para el restablecimiento de derechos de los niños, niñas y adolescentes que se encuentren en situación de inobservancia, amenaza o vulneración de derechos, esta se define por el factor territorial, el cual, según el artículo 97 de la Ley 1098 de 2006, será la autoridad del lugar donde se encuentre el niño, niña o adolescente. 
+    br       
+    p Así mismo, cuando el niño, niña o adolescente se encuentre fuera del país, la autoridad administrativa competente será la del lugar en donde haya tenido su última residencia en el territorio nacional #[sup 5] . En el evento en el que el niño, niña o adolescente nunca haya residido en el territorio colombiano, tendrá competencia cualquier autoridad administrativa del país.
+    br
+    .subref
+      p #[sup 5] Juez de Familia, Juez promiscuo de familia, o cuando en dichos municipios no haya, el juez civil municipal en única instancia, de conformidad con lo establecido en el numeral 6, del artículo 17 de la Ley 1564 de 2012.
+    br    
+    p Frente a la competencia de las autoridades administrativas, se debe tener en cuenta que: “En toda actuación administrativa, siempre debe prevalecer el interés superior del niño, niña o adolescente atendiendo a la Constitución Política, y los Convenios y Tratados internacionales que hoy hacen parte de nuestro sistema jurídico, evitando la dilación injustificada del proceso” (ICBF, 2013), a fin de garantizar la oportunidad en el restablecimiento de los derechos de los niños, niñas y adolescentes.    
+    br
+    p.mb-5 En este mismo sentido, en la siguiente figura se relacionan otros tipos de competencia que tienen las autoridades administrativas para conocer del restablecimiento de derechos de los niños, niñas y adolescentes:
 
     .row.justify-content-center.mb-5
       .col-auto
@@ -163,20 +168,20 @@
           img(src="@/assets/tema_2/img_2_2_02.svg", alt="Tipo de competencia autoridades administrativas", style="width:900px;").mb-4
           figcaption Nota. Adaptada de ICBF (2020).
 
-    p.mb-5 #[strong Competencia concurrente] 
-      br
-      br
-      | Cuando en el municipio exista defensor de familia y comisario de familia, la competencia estará determinada por el factor diferenciador de la violencia intrafamiliar, de acuerdo con lo establecido en el Decreto Único Reglamentario 1069 de 2015. Así las cosas, el comisario de familia es el responsable de prevenir, garantizar, restablecer y reparar los derechos de los niños, niñas o adolescentes cuando la amenaza o vulneración se haya producido en el contexto de la violencia intrafamiliar, salvo la declaratoria de adoptabilidad, que es competencia exclusiva del defensor de familia.
-      br
-      br
-      | En este mismo sentido, según el artículo 98 de la Ley 1098 de 2006, en los municipios en los que no haya defensor de familia, sus funciones serán cumplidas por el comisario de familia y, en ausencia de este último, las funciones asignadas al defensor corresponderán al inspector de policía.
-      br
-      br
-      | Al presentarse esta concurrencia, cualquiera de las autoridades administrativas asumirá a prevención el conocimiento del caso de amenaza o vulneración de derechos, verificará inmediatamente el estado de cumplimiento de derechos para determinar si procede la apertura de un Proceso Administrativo de Restablecimiento de Derechos, protegerá al niño, niña o adolescente a través de una medida provisional si es el caso y remitirá las diligencias a la autoridad administrativa competente el día hábil siguiente. Por lo anterior, ninguna autoridad administrativa se puede negar a tomar medidas provisionales, de emergencia, protección o restablecimiento de derechos debido a la competencia, lo anterior de conformidad con lo dispuesto en el artículo 2.2.4.9.2.1 del Decreto 1069 de 2015. 
+    p #[strong Competencia concurrente] 
+    br
+    p Cuando en el municipio exista defensor de familia y comisario de familia, la competencia estará determinada por el factor diferenciador de la violencia intrafamiliar, de acuerdo con lo establecido en el Decreto Único Reglamentario 1069 de 2015. Así las cosas, el comisario de familia es el responsable de prevenir, garantizar, restablecer y reparar los derechos de los niños, niñas o adolescentes cuando la amenaza o vulneración se haya producido en el contexto de la violencia intrafamiliar, salvo la declaratoria de adoptabilidad, que es competencia exclusiva del defensor de familia.
+    br
+    p En este mismo sentido, según el artículo 98 de la Ley 1098 de 2006, en los municipios en los que no haya defensor de familia, sus funciones serán cumplidas por el comisario de familia y, en ausencia de este último, las funciones asignadas al defensor corresponderán al inspector de policía #[sup 6].
+    br
+    .subref
+      p #[sup 6] El parágrafo 2° del artículo 7° del Decreto 4840 de 2007 determina que “A los efectos de la competencia subsidiaria del Artículo 98 de la Ley 1098 de 2006, si bien las funciones determinadas para el Comisario de Familia serán las mismas establecidas para el Defensor, lo realiza dentro del contexto de la subsidiariedad, es decir, solo en caso de que no exista la autoridad idónea en esa jurisdicción (…)”.
+    br
+    p.mb-5 Al presentarse esta concurrencia, cualquiera de las autoridades administrativas asumirá a prevención el conocimiento del caso de amenaza o vulneración de derechos, verificará inmediatamente el estado de cumplimiento de derechos para determinar si procede la apertura de un Proceso Administrativo de Restablecimiento de Derechos, protegerá al niño, niña o adolescente a través de una medida provisional si es el caso y remitirá las diligencias a la autoridad administrativa competente el día hábil siguiente. Por lo anterior, ninguna autoridad administrativa se puede negar a tomar medidas provisionales, de emergencia, protección o restablecimiento de derechos debido a la competencia, lo anterior de conformidad con lo dispuesto en el artículo 2.2.4.9.2.1 del Decreto 1069 de 2015. 
 
     .crd_A.crd_A--celeste.mb-5
       .row.align-items-center
-        .col-12.col-lg-auto
+        .col-12.col-xl-auto
           figure
             img(src="@/assets/tema_2/img_2_2_03.png", alt="El restablecimiento y la garantía de derechos de niñas, niños y adolescentes", style="width:100%;")            
         .col.me-0.me-lg-5
@@ -242,28 +247,19 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-xl-5
         h5 Verificación del estado de cumplimiento de derechos
-        ul.lista-ul--color
-          li 
-            i.fas.fa-check
-            | El estado de salud física y psicológica.
-          li 
-            i.fas.fa-check
-            |El estado de nutrición y vacunación.
-          li 
-            i.fas.fa-check
-            |La inscripción en el registro civil de nacimiento.
-          li 
-            i.fas.fa-check
-            |La ubicación de la familia de origen o tutor legal.
-          li 
-            i.fas.fa-check
-            |El estudio del entorno familiar y la identificación tanto de elementos protectores como de riesgo para la vigencia de los derechos.
-          li 
-            i.fas.fa-check
-            |La vinculación al sistema de salud y seguridad social.
-          li 
-            i.fas.fa-check
-            |La vinculación al sistema educativo.
+        ul.fa-ul
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] El estado de salud física y psicológica             
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] La inscripción en el registro civil de nacimiento.            
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] La ubicación de la familia de origen o tutor legal.           
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] El estudio del entorno familiar y la identificación tanto de elementos protectores como de riesgo para la vigencia de los derechos.          
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] La vinculación al sistema de salud y seguridad social.           
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]]La vinculación al sistema educativo.
+
         .crd_C
           p Nota. Tomada de ICBF (2016a).
       
@@ -278,25 +274,18 @@
         figure
           img(src="@/assets/tema_2/img_2_3_04.svg", alt="Verificación de la garantía de derechos", style="width:450px; display:block; margin:0 auto;")
       .col-12.col-xl-6        
-        ul.lista-ul--color
-          li 
-            i.fas.fa-check
-            | Valoración inicial psicológica y emocional.
-          li 
-            i.fas.fa-check
-            | Valoración de nutrición y revisión del esquema de vacunación.
-          li 
-            i.fas.fa-check
-            | Valoración inicial del entorno familiar, redes vinculares e identificación de elementos protectores y de riesgo para la garantía de los derechos.
-          li 
-            i.fas.fa-check
-            | Verificación de la inscripción en el registro civil de nacimiento.
-          li 
-            i.fas.fa-check
-            | Verificación de la vinculación al sistema de salud y seguridad social.
-          li 
-            i.fas.fa-check
-            | Verificación a la vinculación al sistema educativo.   
+        ul.fa-ul
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Valoración inicial psicológica y emocional.
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Valoración de nutrición y revisión del esquema de vacunación.
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Valoración inicial del entorno familiar, redes vinculares e identificación de elementos protectores y de riesgo para la garantía de los derechos.
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Verificación de la inscripción en el registro civil de nacimiento.
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Verificación de la vinculación al sistema de salud y seguridad social.
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Verificación a la vinculación al sistema educativo.   
 
     p.mb-5 Las actuaciones que desarrollan los profesionales del equipo técnico interdisciplinario en esta etapa del proceso, constituyen valoraciones iniciales y consisten en realizar entrevista y valoración.
       br
@@ -359,22 +348,16 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-xl-5
         h5 Verificación del estado de cumplimiento de derechos
-        ul.lista-ul--color
-          li 
-            i.fas.fa-check
-            | Trámite de conciliación.
-          li 
-            i.fas.fa-check
-            | Trámite de diligencia de reconocimiento voluntario.
-          li 
-            i.fas.fa-check
-            | Trámite de formulación de demandas.
-          li 
-            i.fas.fa-check
-            | Trámite para salida del país.
-          li 
-            i.fas.fa-check
-            | Trámite de restablecimiento internacional de derechos.    
+        ul.fa-ul
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Trámite de conciliación.
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Trámite de diligencia de reconocimiento voluntario.
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]]Trámite de formulación de demandas.
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Trámite para salida del país.
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Trámite de restablecimiento internacional de derechos.    
         .crd_C
           p Nota. Tomada de ICBF (2016).
       
@@ -402,40 +385,28 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-xl-6
         h5 Pasos del PARD
-        ul.lista-ul--color
-          li 
-            i.fas.fa-check
-            | Apertura.
-          li 
-            i.fas.fa-check
-            | Notificación del auto de apertura.
-          li 
-            i.fas.fa-check
-            | Trámite de conciliación.
-          li 
-            i.fas.fa-check
-            | La autoridad administrativa corre traslado de la solicitud.
-          li 
-            i.fas.fa-check
-            | Búsqueda de redes familiares y vinculares.    
-          li 
-            i.fas.fa-check
-            | Orden de pruebas solicitadas por las partes.   
-          li 
-            i.fas.fa-check
-            | Fijación de fecha y hora de la audiencia.    
-          li 
-            i.fas.fa-check
-            | Audiencia de práctica de pruebas y fallo de restablecimiento de derechos.   
-          li 
-            i.fas.fa-check
-            | Trámite de restablecimiento internacional de derechos.    
-          li 
-            i.fas.fa-check
-            | Homologación: establecer si la medida adoptada atendió el interés superior del niño, niña o adolescente.   
-          li 
-            i.fas.fa-check
-            | Seguimiento por parte de la Autoridad Administrativa, equipo técnico e ICBF.   
+        ul.fa-ul
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Apertura.
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Notificación del auto de apertura.
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Trámite de conciliación.
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]]La autoridad administrativa corre traslado de la solicitud.
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Búsqueda de redes familiares y vinculares.   
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]]Orden de pruebas solicitadas por las partes.  
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]]Fijación de fecha y hora de la audiencia.  
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Audiencia de práctica de pruebas y fallo de restablecimiento de derechos. 
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]]Trámite de restablecimiento internacional de derechos.    
+
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Homologación: establecer si la medida adoptada atendió el interés superior del niño, niña o adolescente. 
+            
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Seguimiento por parte de la Autoridad Administrativa, equipo técnico e ICBF.   
         .crd_C
           p Nota. Tomada de ICBF (2016b).
       
@@ -497,11 +468,11 @@
 
     .crd_A.crd_A--celeste.mb-5
       .row.align-items-center
-        .col-12.col-lg-auto
+        .col-auto.col-xl-5
           figure
-            img(src="@/assets/tema_2/img_2_4_01.png", alt="El restablecimiento y la garantía de derechos de niñas, niños y adolescentes", style="width:100%;")
+            img(src="@/assets/tema_2/img_2_4_01.png", alt="El restablecimiento y la garantía de derechos de niñas, niños y adolescentes", style="width:1000px;")
             figcaption Nota. Tomada de banco de imágenes de Prosperidad Social (2020).
-        .col.me-0.me-lg-5
+        .col-12.col-xl.me-0.me-lg-7
           .ctr.p-4
             p Las medidas de restablecimiento de derechos son decisiones de naturaleza administrativa que decreta la autoridad administrativa para garantizar y restablecer el ejercicio de los derechos de niñas, niños y adolescentes (Ley 1098, 2006, artículo 53). Pueden ser provisionales o definitivas, pero deben estar en concordancia con el derecho amenazado o vulnerado y garantizar, en primer término, el derecho del niño, niña o adolescente a permanecer en el medio familiar (familia nuclear o extensa), siempre y cuando este entorno sea garante de sus derechos.
 
@@ -514,7 +485,7 @@
       | De conformidad con lo establecido en la Directriz 71 de Naciones Unidas (2010), la cual menciona que: 
 
     .cajon--rojo.p-4.mb-4       
-      p Cuando en el municipio no haya juez de familia o promiscuo de familia, conocerá de los conflictos de competencia en asuntos de familia que se susciten entre autoridades administrativas, el juez civil municipal en única instancia, de conformidad con lo establecido en el numeral 6, del artículo 17 de la Ley 1564 de 2012.
+      p Debería dedicarse especial atención a la calidad del cuidado alternativo prestado, tanto en acogimiento residencial como familiar, en particular con respecto a las aptitudes profesionales, la selección, la formación y la supervisión de los acogedores. Su papel y funciones deberían definirse claramente y distinguirse de las de los padres o tutores del niño (s.p.). 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-auto.mb-5.mb-xl-0
@@ -561,19 +532,11 @@
         figure
           img(src="@/assets/tema_2/img_2_4_04.svg", alt="Verificación de la garantía de derechos", style="width:450px; display:block; margin:0 auto;")
       .col-12.col-xl-6        
-        ul.lista-ul--color
-          li 
-            i.fas.fa-check
-            | Hogar de paso.
-          li 
-            i.fas.fa-check
-            | Centro de emergencia.
-          li 
-            i.fas.fa-check
-            | Hogar sustituto.
-          li 
-            i.fas.fa-check
-            | Programa de atención especializada (PAE).
+        ul.fa-ul
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Hogar de paso.
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Centro de emergencia.
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Hogar sustituto.
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Programa de atención especializada (PAE).
 
     hr
     h5 Ubicación inmediata en medio familiar
@@ -584,16 +547,10 @@
         figure
           img(src="@/assets/tema_2/img_2_4_05.svg", alt="Verificación de la garantía de derechos", style="width:350px; display:block; margin:0 auto;")
       .col-12.col-xl-6        
-        ul.lista-ul--color
-          li 
-            i.fas.fa-check
-            | Intervención de apoyo - apoyo psicológico especializado.
-          li 
-            i.fas.fa-check
-            | Externado - media jornada - jornada completa.
-          li 
-            i.fas.fa-check
-            | Hogar gestor.  
+        ul.fa-ul
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Intervención de apoyo - apoyo psicológico especializado.
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Externado - media jornada - jornada completa.
+          li.mb-3 #[span.li--clr.fa-li #[i.fas.fa-check ]] Hogar gestor.  
 
     hr 
     h5 Ubicación en centros de emergencia 
@@ -641,22 +598,14 @@
 
     .row.justify-content-center.mb-5
       .col-12.ps-5
-        ul.lista-ul--color
-          li.mb-4 
-            i.fas.fa-chevron-circle-right
-            | #[strong Cambio de la medida de restablecimiento de derechos:] (carácter transitorio de la misma), la Ley 1098 de 2006 contempla la facultad, en cabeza de las autoridades administrativas, consistente en modificar o suspender las medidas de restablecimiento de derechos tomadas en favor de menores de edad, con el fin de salvaguardar sus derechos.
-          li
-            i.fas.fa-chevron-circle-right
-            | #[strong Evasión:] es posible que niñas, niños y adolescentes ubicados bajo la protección del ICBF, en modalidades de atención institucional o similar, puedan ausentarse de ellas, sin que esto obedezca a procesos formales de egreso de las modalidades, sino a conductas de huida de los servicios y programas ofrecidos, a continuación, se plantean algunos parámetros para tener en cuenta frente a la figura de la evasión:
+        ul.fa-ul
+          li.mb-4 #[span.li--clr.fa-li #[i.fas.fa-chevron-circle-right ]] #[strong Cambio de la medida de restablecimiento de derechos:] (carácter transitorio de la misma), la Ley 1098 de 2006 contempla la facultad, en cabeza de las autoridades administrativas, consistente en modificar o suspender las medidas de restablecimiento de derechos tomadas en favor de menores de edad, con el fin de salvaguardar sus derechos.
+          li #[span.li--clr.fa-li #[i.fas.fa-chevron-circle-right ]] #[strong Evasión:] es posible que niñas, niños y adolescentes ubicados bajo la protección del ICBF, en modalidades de atención institucional o similar, puedan ausentarse de ellas, sin que esto obedezca a procesos formales de egreso de las modalidades, sino a conductas de huida de los servicios y programas ofrecidos, a continuación, se plantean algunos parámetros para tener en cuenta frente a la figura de la evasión:
             br
             br
-            ul.lista-ul--color.ps-5
-              li.mb-4 
-                i.fas.fa-check
-                | #[strong En las modalidades de hogar sustituto e internados:] es la ausencia permanente de niñas, niños y adolescentes de la modalidad, por más de 24 horas, sin la autorización de la autoridad administrativa.
-              li
-                i.fas.fa-check
-                | #[strong En las modalidades de apoyo y fortalecimiento a la familia:] es la ausencia de niñas, niños y adolescentes de la modalidad por más de cuatro días consecutivos, de forma injustificada o sin la debida autorización de la autoridad administrativa (ICBF, 2016b).
+            ul.fa-ul.ps-5
+              li.mb-4 #[span.li--clr.fa-li #[i.fas.fa-check ]] #[strong En las modalidades de hogar sustituto e internados:] es la ausencia permanente de niñas, niños y adolescentes de la modalidad, por más de 24 horas, sin la autorización de la autoridad administrativa.
+              li #[span.li--clr.fa-li #[i.fas.fa-check ]] #[strong En las modalidades de apoyo y fortalecimiento a la familia:] es la ausencia de niñas, niños y adolescentes de la modalidad por más de cuatro días consecutivos, de forma injustificada o sin la debida autorización de la autoridad administrativa (ICBF, 2016b).
 
     p.mb-5 Las acciones frente a las evasiones desde el hogar sustituto o internado son:
 
@@ -701,16 +650,10 @@
 
     .row.justify-content-center.mb-5
       .col-12.ps-5
-        ul.lista-ul--color
-          li.mb-4 
-            i.fas.fa-chevron-circle-right
-            | En caso de que el niño, niña o adolescente que se ha evadido cuente con familia responsable de la garantía de sus derechos, a la misma se le debe avisar en forma inmediata y mantener la comunicación con ella.
-          li.mb-4 
-            i.fas.fa-chevron-circle-right
-            | En el evento en que el hogar sustituto o internado no hubiera avisado a la policía, la autoridad administrativa deberá reportar la evasión tanto a la policía como al grupo de NN y desaparecidos del Cuerpo Técnico de Investigación (CTI) o al que haga sus veces y dejar evidencia del reporte, en la historia de atención.
-          li
-            i.fas.fa-chevron-circle-right
-            | Registrar en el Sistema de Información Misional (SIM) la situación de evasión (ICBF, 2016b).   
+        ul.fa-ul
+          li.mb-4 #[span.li--clr.fa-li #[i.fas.fa-chevron-circle-right ]] En caso de que el niño, niña o adolescente que se ha evadido cuente con familia responsable de la garantía de sus derechos, a la misma se le debe avisar en forma inmediata y mantener la comunicación con ella.
+          li.mb-4 #[span.li--clr.fa-li #[i.fas.fa-chevron-circle-right ]] En el evento en que el hogar sustituto o internado no hubiera avisado a la policía, la autoridad administrativa deberá reportar la evasión tanto a la policía como al grupo de NN y desaparecidos del Cuerpo Técnico de Investigación (CTI) o al que haga sus veces y dejar evidencia del reporte, en la historia de atención.
+          li #[span.li--clr.fa-li #[i.fas.fa-chevron-circle-right ]]Registrar en el Sistema de Información Misional (SIM) la situación de evasión (ICBF, 2016b).   
         
 
     .hr--blank

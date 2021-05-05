@@ -2,7 +2,7 @@ export const global = {
   componenteFormativo:
     'Restablecimiento y garantía de derechos de las niñas, niños y adolescentes.',
   descripcionCurso:
-    'Este componente busca dar a conocer la importancia del restablecimiento y la garantía de los derechos de las niñas, niños y adolescentes, así como lograr la comprensión de los conceptos inobservancia, amenaza y vulneración de derechos; reconociendo las autoridades administrativas competentes para el restablecimiento de los mismos. En este sentido, se encuentra la ruta del Proceso Administrativo para el Restablecimiento de Derechos (PARD), en la cual se identifican las etapas desde el momento en que la autoridad tiene conocimiento de la presunta situación de amenaza o vulneración, las medidas de restablecimiento de derechos que se ordenan para garantizar y restablecer el ejercicio de los derechos, las cuales pueden ser provisionales o definitivas, y deben ser acordes con el derecho amenazado o vulnerado, garantizando, en primera instancia, el derecho del menor de edad a permanecer en el medio familiar siempre y cuando éste sea garante de sus derechos y en segunda medida, el correspondiente seguimiento al cumplimiento de las medidas adoptadas.',
+    'La ruta del Proceso Administrativo para el Restablecimiento de Derechos (PARD), facilita la toma de decisiones y  acciones frente a presuntas situaciones de amenaza o vulneración de los derechos de niñas, niños y adolescentes, con la finalidad de procurar el restablecimiento y la garantía de los mismos.',
   imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
 }
@@ -149,7 +149,7 @@ export const creditos = {
     },
     {
       nombre: 'Claudia Pureza Perdomo Gómez ',
-      cargo: 'Experto temática',
+      cargo: 'Experta temática',
       centro: 'GIT Territorios y Poblaciones',
       regional: 'Dirección de Transferencias Monetarias Condicionadas.',
     },
@@ -160,12 +160,12 @@ export const creditos = {
     },
     {
       nombre: 'Martha Cecilia Arcila Aponte',
-      cargo: 'Experto temática',
+      cargo: 'Experta temática',
       centro: 'DTMC Grupo de Pilotaje y Escalamiento.',
     },
     {
       nombre: 'Omayra Hoyos Rojas',
-      cargo: 'Experto temática',
+      cargo: 'Experta temática',
       centro:
         'Equipo de Verificación. Programa Familias en Acción. Dirección de Transferencias Monetarias Condicionadas.',
     },
@@ -176,19 +176,19 @@ export const creditos = {
     },
     {
       nombre: 'Liliana Victoria Morales Gualdrón',
-      cargo: 'Diseñador instruccional',
+      cargo: 'Diseñadora instruccional',
       centro: 'Centro de Gestión Industrial',
       regional: 'Regional Distrito Capital',
     },
     {
       nombre: 'Dayra Maritza Paz Calderón',
-      cargo: 'Diseñador instruccional y evaluador Instruccional',
+      cargo: 'Diseñadora instruccional y evaluador Instruccional',
       centro: 'Centro para la Industria y la Comunicación Gráfica',
       regional: 'Regional Distrito Capital',
     },
     {
       nombre: 'Julia Isabel Roberto',
-      cargo: 'Evaluador Instruccional',
+      cargo: 'Evaluadora Instruccional',
       centro: 'Centro para la comunicación de la Industria Gráfica',
       regional: 'Regional Distrito Capital',
     },
@@ -196,12 +196,6 @@ export const creditos = {
       nombre: 'José Gabriel Ortiz Abella',
       cargo: 'Revisión metodológica y pedagógica',
       centro: 'Centro de Diseño y Metrología',
-      regional: 'Regional Distrito Capital',
-    },
-    {
-      nombre: 'María Isabel Román Rueda',
-      cargo: 'Revisora de estilo',
-      centro: 'Centro para la Comunicación de la Industria Gráfica',
       regional: 'Regional Distrito Capital',
     },
   ],
@@ -237,7 +231,7 @@ export const creditos = {
     },
     {
       centro: 'Centro Industrial del Diseño y la Manufactura',
-      regional: 'Regional Santander',
+      regional: 'Regional de Santander',
     },
   ],
   gestoresRepositorio: [
@@ -260,7 +254,7 @@ export const referencias = [
   {
     referencia:
       'Congreso de la República de Colombia. (8 de noviembre de 2006). Ley 1098 de 2006. Por la cual se expide el Código de la Infancia y la Adolescencia. Diario Oficial 46.446.',
-    link: 'https://www.icbf.gov.co/cargues/avance/docs/ley_1098_2006.html',
+    link: 'https://www.icbf.gov.co/cargues/avance/docs/ley_1098_2006.htm',
   },
   {
     referencia:
@@ -274,7 +268,7 @@ export const referencias = [
   {
     referencia: 'ICBF. (26 de octubre de 2009). Concepto 55896 de 2009.',
     link:
-      'https://www.icbf.gov.co/cargues/avance/docs/concepto_icbf_0055896_2009.html',
+      'https://www.icbf.gov.co/cargues/avance/docs/concepto_icbf_0055896_2009.htm',
   },
   {
     referencia:
@@ -285,7 +279,7 @@ export const referencias = [
   {
     referencia: 'ICBF. (8 de enero de 2013). Concepto 6 de 2013.',
     link:
-      'https://www.icbf.gov.co/cargues/avance/docs/concepto_icbf_0000006_2013.html',
+      'https://www.icbf.gov.co/cargues/avance/docs/concepto_icbf_0000006_2013.htm',
   },
   {
     referencia: 'ICBF. (4 de octubre de 2016). Concepto 123 de 2016.',
@@ -295,7 +289,7 @@ export const referencias = [
   {
     referencia: 'ICBF. (24 de noviembre de 2016). Concepto 151 de 2016.',
     link:
-      'https://www.icbf.gov.co/cargues/avance/docs/concepto_icbf_0000151_2016.html',
+      'https://www.icbf.gov.co/cargues/avance/docs/concepto_icbf_0000151_2016.htm',
   },
   {
     referencia:
@@ -313,7 +307,7 @@ export const referencias = [
     referencia:
       'ICBF. (2016c). Resolución 1519 de 2016. Por la cual se aprueba el lineamiento técnico del modelo para la atención de los niños, las niñas y adolescentes, con derechos inobservados, amenazados o vulnerados.',
     link:
-      'https://juridia.jep.gov.co/normograma/compilacion/docs/resolucion_icbf_1519_2016.html',
+      'https://juridia.jep.gov.co/normograma/compilacion/docs/resolucion_icbf_1519_2016.htm',
   },
   {
     referencia:
@@ -325,7 +319,7 @@ export const referencias = [
     referencia:
       'ICBF. (2 de marzo de 2017). Resolución 1264 de 2017. Por la cual se adopta el Modelo de Enfoque Diferencial de Derechos del Instituto Colombiano de Bienestar Familiar.',
     link:
-      'https://www.icbf.gov.co/cargues/avance/docs/resolucion_icbf_1264_2017.html',
+      'https://www.icbf.gov.co/cargues/avance/docs/resolucion_icbf_1264_2017.htm',
   },
   {
     referencia:

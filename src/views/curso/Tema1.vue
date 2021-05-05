@@ -8,7 +8,7 @@
         .h3 1
       .h3 El restablecimiento y la garantía de derechos de niñas, niños y adolescentes    
 
-    .crd_A.crd_A--celeste.mb-5
+    .crd_A.crd_A--celeste.mb-3
       .row.align-items-center
         .col-12.col-lg-auto
           figure
@@ -16,7 +16,10 @@
             figcaption Nota. Imagen tomada de banco de imágenes de Prosperidad Social (2020).
         .col.me-0.me-lg-5
           .ctr.p-4
-            p La protección integral de niñas, niños y adolescentes consiste en su reconocimiento como sujetos de derechos, la garantía y cumplimiento de estos, la prevención de su amenaza o vulneración y la seguridad de su restablecimiento inmediato en desarrollo del principio del interés superior.
+            p La protección integral de niñas, niños y adolescentes consiste en su reconocimiento como sujetos de derechos, la garantía y cumplimiento de estos, la prevención de su amenaza o vulneración y la seguridad de su restablecimiento inmediato en desarrollo del principio del interés superior#[sup 1].
+
+    .subref.mb-5
+      p #[sup 1] La Ley 1098 de 2006, artículo 8° dispone que: se entiende por interés superior del niño, niña y adolescente, el imperativo que obliga a todas las personas a garantizar la satisfacción integral y simultánea de todos sus derechos humanos, que son universales, prevalentes e interdependientes.
 
     .bloque-texto-c.p-4.mb-5
       .h5.mb-2 la protección integral se materializa en el conjunto de políticas, planes, programas y acciones que se ejecuten en el ámbito nacional, departamental, distrital y municipal, con la correspondiente asignación de recursos financieros, físicos y humanos
@@ -44,17 +47,19 @@
 
     .crd_A.crd_A--celeste.mb-5
       .row.align-items-center
-        .col-12.col-lg-auto
+        .col-12.col-xl-auto
           figure
             img(src="@/assets/tema_1/img_1_1_02.png", alt="El restablecimiento y la garantía de derechos de niñas, niños y adolescentes", style="width:100%;") 
             figcaption Nota. Imagen tomada de banco de imágenes de Prosperidad Social (2020).          
         .col.me-0.me-lg-5
           .ctr.p-4
-            p El modelo para la atención de niñas, niños y adolescentes con derechos amenazados o vulnerados se centra en el enfoque de derechos, el enfoque diferencial, y el enfoque sistémico , incluyendo en su abordaje las categorías género, diversidad sexual, etnia, discapacidad y curso de vida (ICBF, 2018).  
+            p.mb-3 El modelo para la atención de niñas, niños y adolescentes con derechos amenazados o vulnerados se centra en el enfoque de derechos, el enfoque diferencial, y el enfoque sistémico #[sup 2] , incluyendo en su abordaje las categorías género, diversidad sexual, etnia, discapacidad y curso de vida (ICBF, 2018).  
+            .subref
+              p #[sup 2] El enfoque sistémico permite una mirada integral de las niñas, los niños y los adolescentes desde su contexto familiar o redes de apoyo vinculares. De la misma forma, potencia las esferas del desarrollo humano: biológica, cognitiva, comunicativa, ética, afectiva, lúdica, productiva y cultural. Además, permite evaluar la situación actual del niño, niña o adolescente integrando a su familia o la red de apoyo.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-6.mb-5.mb-lg-0
-        p Así mismo, la protección integral contempla cuatro tipos de acción afirmativa de los derechos, reconocimiento, garantía, prevención y restablecimiento; acciones que se materializan en la organización, planeación y ejecución de las políticas públicas del Estado. De acuerdo con lo anterior, la doctrina de protección integral, además de ser un postulado teórico de principios y fundamentos, constituye una manera de organizar la acción y se vuelve un orientador operativo.
+        p Así mismo, la protección integral contempla cuatro tipos de acción afirmativa de los derechos, #[strong reconocimiento, garantía, prevención y restablecimiento]; acciones que se materializan en la organización, planeación y ejecución de las políticas públicas del Estado. De acuerdo con lo anterior, la doctrina de protección integral, además de ser un postulado teórico de principios y fundamentos, constituye una manera de organizar la acción y se vuelve un orientador operativo.
       .col-12.col-lg-6
         .cajon--rojo.p-4          
           p La protección integral de los derechos de niñas, niños y adolescentes es misión del Instituto Colombiano de Bienestar Familiar, además de una responsabilidad de la familia y la sociedad.
@@ -68,22 +73,12 @@
             img(src="@/assets/tema_1/img_1_1_03.svg", alt="Población titular objeto de protección especial", style="width:550px;")            
         .col-12.col-xl
           .h5 Población titular
-          ul.lista-ul--color.lista-ul--separador
-            li 
-              i.fas.fa-check
-              | Niños, niñas y adolescentes menores de 18 años.
-            li 
-              i.fas.fa-check
-              | Mayores de 18 años con discapacidad mental absoluta.
-            li 
-              i.fas.fa-check
-              | Mujeres gestantes o en periodo de lactancia, con sus derechos amenazados o vulnerados.
-            li 
-              i.fas.fa-check
-              | Los hijos de las madres mayores de 18 años que al nacer, tienen sus derechos inobservados, amenazados o vulnerados.
-            li 
-              i.fas.fa-check
-              | Mayores de 18 años con discapacidad que al cumplir la mayoría de edad se encontraban en declaratoria de adoptabilidad.
+          ul.fa-ul.lista-ul--separador
+            li #[span.li--clr.fa-li #[i.fas.fa-check ]] Niños, niñas y adolescentes menores de 18 años.
+            li #[span.li--clr.fa-li #[i.fas.fa-check ]] Mayores de 18 años con discapacidad mental absoluta.
+            li #[span.li--clr.fa-li #[i.fas.fa-check ]] Mujeres gestantes o en periodo de lactancia, con sus derechos amenazados o vulnerados.
+            li #[span.li--clr.fa-li #[i.fas.fa-check ]] Los hijos de las madres mayores de 18 años que al nacer, tienen sus derechos inobservados, amenazados o vulnerados.
+            li #[span.li--clr.fa-li #[i.fas.fa-check ]] Mayores de 18 años con discapacidad que al cumplir la mayoría de edad se encontraban en declaratoria de adoptabilidad.
 
     .crd_C.mb-5
       p Nota. Información adaptada de ICBF (2018). 
