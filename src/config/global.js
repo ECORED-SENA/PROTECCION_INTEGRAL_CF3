@@ -226,8 +226,13 @@ export const creditos = {
       cargo: 'Desarrollo Front-End',
     },
     {
-      nombre: 'María Isabel Román Rueda',
-      cargo: 'Revisora de contenidos',
+      nombre: [
+        'Jenny Paola Montillo',
+        'María Isabel Román Rueda',
+        'Rafael Augusto Mantilla',
+        'Veimar Celis Meléndez',
+      ],
+      cargo: 'Revisores de contenidos',
     },
     {
       centro: 'Centro Industrial del Diseño y la Manufactura',
