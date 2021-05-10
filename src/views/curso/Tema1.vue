@@ -22,7 +22,7 @@
       p #[sup 1] La Ley 1098 de 2006, artículo 8° dispone que: se entiende por interés superior del niño, niña y adolescente, el imperativo que obliga a todas las personas a garantizar la satisfacción integral y simultánea de todos sus derechos humanos, que son universales, prevalentes e interdependientes.
 
     .bloque-texto-c.p-4.mb-5
-      .h5.mb-2 la protección integral se materializa en el conjunto de políticas, planes, programas y acciones que se ejecuten en el ámbito nacional, departamental, distrital y municipal, con la correspondiente asignación de recursos financieros, físicos y humanos
+      .h5.mb-2 La protección integral se materializa en el conjunto de políticas, planes, programas y acciones que se ejecuten en el ámbito nacional, departamental, distrital y municipal, con la correspondiente asignación de recursos financieros, físicos y humanos
       span - Artículo 7° del Código de la Infancia y la Adolescencia, Ley 1098 (2006)
 
     p.mb-5 Los menores de edad cuentan con protección especial por parte del Estado y cuando son vulnerados sus derechos, existen diferentes mecanismos para el restablecimiento de estos. 
@@ -40,7 +40,7 @@
           | El restablecimiento es un instrumento fundamental que busca que se cumpla con la especial protección de los derechos y garantías de los menores de edad. Es el conjunto de actuaciones administrativas de las autoridades competentes. 
           br
           br
-          | El modelo para la atención de niñas, niños y adolescentes con derechos amenazados o vulnerados se centra en el enfoque de derechos, el enfoque diferencial, y el enfoque sistémico , incluyendo en su abordaje las categorías género, diversidad sexual, etnia, discapacidad y curso de vida (ICBF, 2018). 
+          | El modelo para la atención de niñas, niños y adolescentes con derechos amenazados o vulnerados se centra en el enfoque de derechos, el enfoque diferencial, y el enfoque sistémico, incluyendo en su abordaje las categorías género, diversidad sexual, etnia, discapacidad y curso de vida (ICBF, 2018). 
       .col-auto
         .figure
           img(src="@/assets/tema_1/img_1_1_01.svg", alt="¿En qué consiste el restablecimiento de derechos de niñas, niños y adolescentes?")
