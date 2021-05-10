@@ -367,8 +367,7 @@ export const referencias = [
   {
     referencia:
       'Presidencia de la República de Colombia. (17 de diciembre de 2007). Decreto 4840 de 2007. Por el cual se reglamentan los Artículos 52, 77, 79, 82, 83, 84, 86, 87, 96, 98, 99, 100, 105, 111 y 205 de la Ley 1098 de 2006. ',
-    link:
-      'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=74174',
+    link: 'https://www.icbf.gov.co/cargues/avance/docs/decreto_4840_2007.htm',
   },
   {
     referencia:
@@ -395,7 +394,7 @@ export const glosario = [
   {
     termino: 'Enfoque diferencial',
     significado:
-      'en el ICBF este enfoque se concibe como un método de análisis y actuación, que reconoce las inequidades, riesgos y vulnerabilidades y valora las capacidades y la diversidad de un determinado sujeto -individual o colectivo-para incidir en el diseño, implementación, seguimiento y evaluación de la política pública, con miras a garantizar el goce efectivo de derechos en especial el derecho a la igualdad y no discriminación. Se implementa a través de: acciones afirmativas, adecuación de la oferta institucional, desarrollo de oferta especializada.</br></br>Este enfoque centra su atención en colectivos históricamente discriminados por diferentes razones como la pertenencia étnica, el sexo, el género, la discapacidad, y la orientación sexual.La aplicación del enfoque diferencial pasa por identificar las problemáticas y particularidades que generan las discriminaciones y situaciones de amenaza o vulneración de los derechos de los niños, niñas, adolescentes o jóvenes, e implica asegurar que se adelanten acciones acordes a las características y necesidades específicas de las personas o grupos poblacionales, tendientes a garantizar el ejercicio efectivo de sus derechos(ICBF, 2018).',
+      'en el ICBF este enfoque se concibe como un método de análisis y actuación, que reconoce las inequidades, riesgos y vulnerabilidades y valora las capacidades y la diversidad de un determinado sujeto -individual o colectivo-para incidir en el diseño, implementación, seguimiento y evaluación de la política pública, con miras a garantizar el goce efectivo de derechos en especial el derecho a la igualdad y no discriminación. Se implementa a través de: acciones afirmativas, adecuación de la oferta institucional, desarrollo de oferta especializada.</br></br>Este enfoque centra su atención en colectivos históricamente discriminados por diferentes razones como la pertenencia étnica, el sexo, el género, la discapacidad, y la orientación sexual. La aplicación del enfoque diferencial pasa por identificar las problemáticas y particularidades que generan las discriminaciones y situaciones de amenaza o vulneración de los derechos de los niños, niñas, adolescentes o jóvenes, e implica asegurar que se adelanten acciones acordes a las características y necesidades específicas de las personas o grupos poblacionales, tendientes a garantizar el ejercicio efectivo de sus derechos(ICBF, 2018).',
   },
   {
     termino: 'Enfoque sistémico',

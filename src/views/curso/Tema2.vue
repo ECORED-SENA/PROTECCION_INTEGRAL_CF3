@@ -75,7 +75,7 @@
         h5.mb-2 Teléfono conmutador: 
         p +57(1) 437 76 30, disponible lunes a viernes de 8:00 a. m. a 5:00 p. m.
           br 
-          | Línea gratuita nacional ICBF : 01 8000 91 80 80, disponible las 24 horas.
+          | Línea gratuita nacional ICBF: 01 8000 91 80 80, disponible las 24 horas.
           br
           | Línea 141: línea gratuita nacional para denuncia, emergencia y orientación. Disponible las 24 horas.
 
@@ -188,7 +188,7 @@
           .ctr.p-4
             p En todos los casos en los que se ponga en conocimiento de la autoridad administrativa la presunta amenaza o vulneración de los derechos de un niño, niña o adolescente indígena, además de las acciones previamente descritas, la autoridad administrativa de manera paralela, deberá identificar el nombre de la autoridad tradicional indígena que representa al niño, niña, adolescente o su familia, para iniciar el proceso de interlocución y definición de la competencia, de acuerdo con lo establecido en el trámite para el restablecimiento de derechos de niños, niñas y adolescentes indígenas o el documento que lo modifique.
 
-    p.mb-4 Como se observar, la competencia para conocer está radicada en cabeza del funcionario del lugar donde se encuentre el niño, niña o adolescente, esta regla responde a la inmediación con la que debe contar la autoridad al momento de tomar las determinaciones correspondientes para asegurar la protección integral de los niños. Se trata, así, de aplicar el principio de eficacia de la actuación administrativa (ICBF, 2020).
+    p.mb-4 Como se observa, la competencia para conocer está radicada en cabeza del funcionario del lugar donde se encuentre el niño, niña o adolescente, esta regla responde a la inmediación con la que debe contar la autoridad al momento de tomar las determinaciones correspondientes para asegurar la protección integral de los niños. Se trata, así, de aplicar el principio de eficacia de la actuación administrativa (ICBF, 2020).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-xl-7.mb-5.mb-xl-0
@@ -439,9 +439,9 @@
         figure
           img(src="@/assets/tema_2/img_2_3_14.svg", alt="Amenaza de derechos")
       .crd__avatarHor__txt
-        h5.mb-0 Prorroga del seguimiento
+        h5.mb-0 Prórroga del seguimiento
         p.mb-3 (6 meses)        
-        p Se contará con una prorroga para casos excepcionales para realizar un nuevo seguimiento por 6 meses y así decidir si se reintegra al menor de edad a su medio familiar o lo declara en adoptabilidad. 
+        p Se contará con una prórroga para casos excepcionales para realizar un nuevo seguimiento por 6 meses y así decidir si se reintegra al menor de edad a su medio familiar o lo declara en adoptabilidad. 
 
     .crd__avatarHor.mb-5
       .crd__avatarHor__img
@@ -522,7 +522,7 @@
     p.mb-5 Se procede al retiro inmediato del niño, niña o adolescente de la actividad que amenace o vulnere sus derechos o de las actividades ilícitas en las que se pueda encontrar y ubicación en un programa de atención especializada para el restablecimiento del derecho vulnerado.
       br
       br
-      | Como mecanismo para el restablecimiento de derechos, la atención especializada ofrece alternativas en contexto comunitario o familiar, a través de servicios profesionales especializados ambulatorios o en Centros de Atención Especializada (CAE), dependiendo todo ello de la complejidad y las necesidades del niños, niñas y adolescentes. Lo fundamental de esta medida consiste en el tipo de intervención y no en la jornada de la atención. 
+      | Como mecanismo para el restablecimiento de derechos, la atención especializada ofrece alternativas en contexto comunitario o familiar, a través de servicios profesionales especializados ambulatorios o en Centros de Atención Especializada (CAE), dependiendo todo ello de la complejidad y las necesidades de los niños, niñas y adolescentes. Lo fundamental de esta medida consiste en el tipo de intervención y no en la jornada de la atención. 
       br
       br
       | La autoridad administrativa podrá tomar una, o varias medidas provisionales, en el caso de no ser posible la ubicación con la familia de origen o familia extensa, el niño, niña o adolescente podrá ser remitido, entre otras, a una de las siguientes ubicaciones:
@@ -667,8 +667,8 @@
           img(src="@/assets/componentes/actividad.svg", style="width:350px")
         .col
           .titulo-segundo.mb-4
-            .h4 Restablecimiento de derechos en niñas, niños y adolescentes
-          p.mb-4 La siguiente actividad tiene como propósito fortalecer algunos de los conceptos y procesos relacionados con el restablecimiento de derechos en niñas, niños y adolescentes y la ruta para su realización. 
+            .h4 Restablecimiento y garantía de derechos de las niñas, niños y adolescentes
+          p.mb-4 La siguiente actividad tiene como propósito fortalecer algunos de los conceptos y procesos relacionados con el restablecimiento y garantía de derechos de las niñas, niños y adolescentes y la ruta para su realización. 
 
           a.boton.boton--b(:href="obtenerLink('downloads/actividad/A1/index.html')" target="_blank" type="application/pdf")
             span Iniciar

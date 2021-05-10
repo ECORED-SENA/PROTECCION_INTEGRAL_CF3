@@ -53,7 +53,7 @@
             figcaption Nota. Imagen tomada de banco de imágenes de Prosperidad Social (2020).          
         .col.me-0.me-lg-5
           .ctr.p-4
-            p.mb-3 El modelo para la atención de niñas, niños y adolescentes con derechos amenazados o vulnerados se centra en el enfoque de derechos, el enfoque diferencial, y el enfoque sistémico #[sup 2] , incluyendo en su abordaje las categorías género, diversidad sexual, etnia, discapacidad y curso de vida (ICBF, 2018).  
+            p.mb-3 El modelo para la atención de niñas, niños y adolescentes con derechos amenazados o vulnerados se centra en el enfoque de derechos, el enfoque diferencial, y el enfoque sistémico#[sup 2], incluyendo en su abordaje las categorías género, diversidad sexual, etnia, discapacidad y curso de vida (ICBF, 2018).  
             .subref
               p #[sup 2] El enfoque sistémico permite una mirada integral de las niñas, los niños y los adolescentes desde su contexto familiar o redes de apoyo vinculares. De la misma forma, potencia las esferas del desarrollo humano: biológica, cognitiva, comunicativa, ética, afectiva, lúdica, productiva y cultural. Además, permite evaluar la situación actual del niño, niña o adolescente integrando a su familia o la red de apoyo.
 
