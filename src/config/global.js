@@ -188,7 +188,11 @@ export const creditos = {
       nombre: [
         'Luis Arévalo Mantilla',
         'Luis Gabriel Urueta Álvarez',
+        'Zuleidy Maria Ruiz Torres',
+        'Wilson Andrés Arenales Cáceres',
+        'Gilberto Junior Rodríguez Rodríguez',
         'Nelson Iván Vera Briceño',
+        'Camilo Villamizar',
       ],
       cargo: 'Diseño web y Producción Audiovisual',
     },
