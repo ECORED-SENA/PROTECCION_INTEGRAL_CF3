@@ -186,13 +186,13 @@ export const creditos = {
     },
     {
       nombre: [
+        'Camilo Andrés Villamizar Lizcano',
+        'Gilberto Junior Rodríguez Rodríguez',
         'Luis Arévalo Mantilla',
         'Luis Gabriel Urueta Álvarez',
-        'Zuleidy Maria Ruiz Torres',
-        'Wilson Andrés Arenales Cáceres',
-        'Gilberto Junior Rodríguez Rodríguez',
         'Nelson Iván Vera Briceño',
-        'Camilo Villamizar',
+        'Wilson Andrés Arenales Cáceres',
+        'Zuleidy Maria Ruiz Torres',
       ],
       cargo: 'Diseño web y Producción Audiovisual',
     },
@@ -303,7 +303,8 @@ export const referencias = [
       'https://www.icbf.gov.co/lineamiento-tecnico-del-modelo-para-la-atencion-de-los-ninos-ninas-y-adolescentes-con-derechos',
   },
   {
-    referencia: 'ICBF. (2020). Banco de imágenes.',
+    referencia:
+      'ICBF. (2020). Portal Instituto Colombiano de Bienestar Familiar.',
     link: 'https://www.icbf.gov.co/',
   },
   {
