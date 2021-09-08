@@ -280,12 +280,6 @@ export const referencias = [
   },
   {
     referencia:
-      'ICBF. (2016c). Resolución 1519 de 2016. Por la cual se aprueba el lineamiento técnico del modelo para la atención de los niños, las niñas y adolescentes, con derechos inobservados, amenazados o vulnerados.',
-    link:
-      'https://juridia.jep.gov.co/normograma/compilacion/docs/resolucion_icbf_1519_2016.htm',
-  },
-  {
-    referencia:
       'ICBF. (2017). Lineamiento técnico del modelo para la atención de los niños, las niñas y adolescentes, con derechos inobservados, amenazados o vulnerados.',
     link:
       'https://www.icbf.gov.co/sites/default/files/procesos/document_19.pdf',
